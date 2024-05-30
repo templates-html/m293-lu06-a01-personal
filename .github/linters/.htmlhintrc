@@ -1,7 +1,8 @@
 {
   "tagname-lowercase": true,
   "attr-lowercase": true,
-  "attr-value-double-quotes": false,
+  "attr-value-double-quotes": true,
+  "attr-value-single-quotes": false,
   "attr-value-not-empty": false,
   "attr-no-duplication": true,
   "doctype-first": true,
