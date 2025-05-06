@@ -11,5 +11,5 @@ permissions:
 
 jobs:
   call-lint:
-    uses: BZZ-Commons/htmlgrader/.github/workflows/lint_workflow.yml@main
+    uses: BZZ-Commons/htmlgrader/.github/workflows/workflow.yml@main
     secrets: inherit
